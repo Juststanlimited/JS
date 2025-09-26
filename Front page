@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Company</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌟 My Company</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We are a passionate team helping clients achieve their goals through innovation and excellence.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>✔ Consulting</li>
+      <li>✔ Web Development</li>
+      <li>✔ Marketing Solutions</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@mycompany.com</p>
+    <p>Phone: +123 456 789</p>
+  </section>
+
+  <footer>
+    <p>© 2025 My Company | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
