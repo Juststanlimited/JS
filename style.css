@@ -190,3 +190,28 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+#contact {
+  margin-top: 40px;
+  padding: 20px;
+  border-top: 2px solid gold;
+}
+
+#contact h2 {
+  color: gold;
+  margin-bottom: 15px;
+}
+
+#contact p {
+  color: gold;
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+#contact a {
+  color: gold;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
